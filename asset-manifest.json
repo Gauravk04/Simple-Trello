@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Simple-Trello/static/css/main.ace0f7bf.css",
+    "main.js": "/Simple-Trello/static/js/main.0e7661a3.js",
+    "static/js/255.90e02b1a.chunk.js": "/Simple-Trello/static/js/255.90e02b1a.chunk.js",
+    "static/js/787.ed417cfe.chunk.js": "/Simple-Trello/static/js/787.ed417cfe.chunk.js",
+    "index.html": "/Simple-Trello/index.html",
+    "main.ace0f7bf.css.map": "/Simple-Trello/static/css/main.ace0f7bf.css.map",
+    "main.0e7661a3.js.map": "/Simple-Trello/static/js/main.0e7661a3.js.map",
+    "255.90e02b1a.chunk.js.map": "/Simple-Trello/static/js/255.90e02b1a.chunk.js.map",
+    "787.ed417cfe.chunk.js.map": "/Simple-Trello/static/js/787.ed417cfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace0f7bf.css",
+    "static/js/main.0e7661a3.js"
+  ]
+}
