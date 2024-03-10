@@ -8,20 +8,6 @@
 <img src="https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" /><img src="https://img.shields.io/badge/-Tailwind CSS-%2306B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge" alt="Tailwind CSS" /><img src="https://img.shields.io/badge/-Netlify-%2300C7B7?logo=Netlify&logoColor=white&style=for-the-badge" alt="Netlify" />
 
 ## Features
-TaskHub helps you manage your tasks efficiently. Login with your google account to start. 
-* [Personal Tasks](#personal-tasks)
-* [Organisation Tasks](#organisation-tasks)
+TaskHub helps you manage your tasks efficiently.
+![image](https://github.com/Gauravk04/Simple-Trello-/assets/121782880/bbd30080-390a-4137-90ad-92aad8d0acab)
 
-## Personal Tasks
-
-<img src="./src/assets/personaltasks.png" width="500">
-<br>
-A user can create seperate lists for their personal tasks. Some examples of lists include "To Do", "In Progress" and "Complete".
-A user can add, delete, edit lists. In each list, users can add, delete, edit cards. They can also drag and drop lists, cards to sort them as per their choice.
-
-## Organisation Tasks
-
-<img src="./src/assets/organisationtasks.png" width="500">
-<br>
-When a user signs in, they are added to an organisation. Users can use this to manage tasks for a company, organisation, etc.
-The lists and cards work in the same manner as personal tasks.
